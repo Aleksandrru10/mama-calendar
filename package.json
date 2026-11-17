@@ -1,0 +1,11 @@
+{
+  "name": "mama-calendar",
+  "version": "1.4.1",
+  "private": true,
+  "scripts": {
+    "test": "python -m unittest discover -s tests -p test_encoding.py && node tests/browser-regression.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.55.0"
+  }
+}

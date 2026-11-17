@@ -1,3 +1,5 @@
 node_modules/
 private/
 *.apk
+__pycache__/
+tests/*.png
