@@ -1,0 +1,11 @@
+{
+  "name": "Мой график",
+  "short_name": "Мой график",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141918",
+  "theme_color": "#141918",
+  "icons": []
+}
